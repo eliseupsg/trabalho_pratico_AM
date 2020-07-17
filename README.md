@@ -8,3 +8,5 @@ São três os arquivos do Jupyter:
 - classification: neste código são treinados e avaliados os modelos de classificação.
 
 O dataset original utilizado pode ser encontrado em http://www.cs.jhu.edu/~mdredze/datasets/sentiment/unprocessed.tar.gz e foi originalmente usado em "John Blitzer, Mark Dredze, Fernando Pereira. Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification. Association of Computational Linguistics (ACL), 2007".
+
+O modelo pré-treinado de word embeddings utilizado pode ser encontrado em https://github.com/felipebravom/AffectiveTweets/releases/download/1.0.0/w2v.twitter.edinburgh10M.400d.csv.gz e foi originalmente usado em "Bravo-Marquez, F.; Frank, E.; Mohammad, S. M.; Pfahringer, B. Determining word-emotion associations from tweets by multi-label classification. In 2016 IEEE/WIC/ACM International Conference on Web Intelligence (WI) (Oct 2016), pp. 536–539."
