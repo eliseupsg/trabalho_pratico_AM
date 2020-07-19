@@ -1,7 +1,7 @@
 # trabalho_pratico_AM
 Este repositório se destina aos códigos utilizados no trabalho prático da disciplina de AM (EAD)
 
-Nele encontram-se os notebooks do Jupyter utilizados para a tarefa de classificação de reviews de livros da Amazon utilizando word embeddings.
+Nele encontram-se os notebooks do Jupyter utilizados para a tarefa de classificação de reviews de livros da Amazon utilizando word embeddings dentro da pasta source_codes.
 São três os arquivos do Jupyter:
 - preprocessing: neste código o dataset original é pré-processado para a extração das características relevantes para o trabalho;
 - embeddings: neste código o dataset processado é utilizado para o cálculo dos embeddings dos reviews; e
